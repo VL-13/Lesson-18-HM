@@ -1,4 +1,4 @@
-// #
+// #1
 document.title = "Today we manipulate with DOM";
 
 //#2
